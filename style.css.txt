@@ -1,0 +1,30 @@
+.red{
+                    background:pink;
+                    color:red;
+                    padding:50px;
+                    margin:50px;
+}
+.green{
+                    background:indigo;
+                    color:green;
+                    padding:50px;
+                    margin:50px;
+}
+.orange{
+                    background:tomato;
+                    color:orange;
+                    padding:50px;
+                    margin:50px;
+}
+.purple{
+                   background:pink;
+                   color:purple;
+                   padding:50px;
+                   margin:50px;
+}
+.yellow{
+                  background:violet;
+                  color:yellow;
+                  padding:50px;
+                  margin:50px;
+}
